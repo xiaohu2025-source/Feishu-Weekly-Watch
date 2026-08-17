@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+.runtime/
+.lark-cli/
+.codex-local/
+secrets/
+auth-bundle*.txt
+*.token
+*.secret
